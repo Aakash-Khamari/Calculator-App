@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="blackWhite">#FFFFFFFF</color>
+    <color name="btnColor">#43323131</color>
+    <color name="operatorButtonColor">#22A3A3FB</color>
+    <color name="operatorTextColor">#FFFFFF</color>
+    <!--    <color name="operatorButtonColor">#201717DF</color>
+    <color name="operatorTextColor">#445FF6</color>-->
+</resources>
